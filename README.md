@@ -15,8 +15,6 @@ Hi, I'm Harish<br><br>Full Stack Developer passionate about building impact-driv
 ---
 
 
-  ## 💰 You can help me by Donating
-  [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/kenHarris0) 
-
+ 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
