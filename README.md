@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi, I'm Harish<br><br>Full Stack Developer passionate about building impact-driven applications<br> I enjoy solving real-world problems using scalable systems + AI integrations<br><br>What I Do:<br>Build end-to-end web applications <br>Design scalable APIs and real-time systems<br>Work with AI/LLMs to create intelligent products<br>Turn ideas into production-ready solutions<br><br>What I’m Working On<br>AI-powered applications (RAG, chatbots, automation tools)<br>Scalable SaaS products<br>Real-time systems with WebSockets<br><br>Let’s Connect<br>Open to collaborations, internships, and building cool stuff
 
 
